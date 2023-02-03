@@ -22,4 +22,3 @@ spec:
     - ./resources/observability-resource.yaml
     - ./resources/postgres-resource.yaml
     - ./resources/rabbit-resource.yaml
-    - https://github.com/kirtiapte/java-rest-service-test/blob/main/catalog/catalog-info.yaml
